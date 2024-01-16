@@ -1,6 +1,4 @@
 <div align="center">
-<img src="./src/Images/github-profile-banner.png"/>
-
 </div>
 
 
